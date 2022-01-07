@@ -1,0 +1,5 @@
+1. Created 'git_commands.txt' file in main and new branch with a slight difference in content.
+2. Merge conflict arised in merging the new branch with the main branch. 
+3. By clicking on 'Resolve Conflicts' I finalise the content of my file and then clicked.
+   'Mark as resolved'->'Commit Merge'.
+4. The conflict resolved and then I clicked 'Merge Pull Request'->'Confirm Merge'.
