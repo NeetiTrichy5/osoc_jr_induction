@@ -1,0 +1,32 @@
+GIT COMMANDS
+BRANCH: MAIN
+
+1.git-add
+Add file contents to the index
+
+2.git-am
+Apply a series of patches from a mailbox
+
+3.git-archive
+Create an archive of files from a named tree
+
+4.git-bisect
+Use binary search to find the commit that introduced a bug
+
+5.git-branch
+List, create, or delete branches
+
+6.git-bundle
+Move objects and refs by archive
+
+7.git-checkout
+Switch branches or restore working tree files
+
+8.git-cherry-pick
+Apply the changes introduced by some existing commits
+
+9.git-citool
+Graphical alternative to git-commit
+
+10.git-clean
+Remove untracked files from the working tree
