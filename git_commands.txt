@@ -29,4 +29,5 @@ Apply the changes introduced by some existing commits
 Graphical alternative to git-commit
 
 10.git-clean
-Remove untracked files from the tree
+Remove untracked files from the working tree
+
